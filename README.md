@@ -18,7 +18,7 @@ This project focuses on predicting customer churn for a telecom company using ma
 
 ## 🧾 Dataset
 
-The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction/input) and contains the following customer-related features:
+The dataset used in this project is sourced from Kaggle and contains the following customer-related features:
 
 - **Demographics** (gender, senior citizen, partner, dependents)  
 - **Service details** (internet service, contract type, payment method)  
